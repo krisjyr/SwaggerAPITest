@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Test coverage
+coverage/
+
+# Environment variables
+.env
+
+# Swagger test files
+SwaggerTest/*.test.js
+
+# MacOS
+.DS_Store
+
+# Other
+.idea/
+.vscode/
+*.iml
+
